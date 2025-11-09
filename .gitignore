@@ -1,0 +1,5 @@
+node_modules/
+.env
+.DS_Store
+*.log
+civic-87f06-firebase-adminsdk-fbsvc-907dd7ec6b.json
